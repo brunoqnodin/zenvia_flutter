@@ -1,0 +1,6 @@
+package br.com.zenteste.zenteste
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
